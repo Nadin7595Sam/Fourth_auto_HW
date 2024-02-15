@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff7880fd-48a3-491a-9383-0ad52bc90c05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/third_home/task_1/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/third_home/task_1/ProfilePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/third_home/task_1/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/third_home/task_1/FirstTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/third_home/task_3/CredentialsThirdPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/third_home/task_3/EditingThirdPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/third_home/task_3/EntranceThirdPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third_home/task_1/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third_home/task_1/AbstractTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third_home/task_1/FirstTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third_home/task_1/FirstTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third_home/task_3/AbstractThirdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third_home/task_3/CredentialsPageThirdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third_home/task_3/EditingThirdPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third_home/task_3/EntrancePageThirdTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cMXrkfsdBt1NmnyeFkgGlfNGQm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.FirstTaskTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FirstTaskTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProfilePageTest.authorization.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProfilePageTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProfilePageTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79689/IdeaProjects/Selenide_HW&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="third_home.task_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProfilePageTest">
+    <configuration name="FirstTaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_home.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="third_home.task_1" />
+      <option name="MAIN_CLASS_NAME" value="third_home.task_1.FirstTaskTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTaskTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_home.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="third_home.task_1" />
+      <option name="MAIN_CLASS_NAME" value="third_home.task_1.FirstTaskTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfilePageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_home.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="third_home.task_1" />
+      <option name="MAIN_CLASS_NAME" value="third_home.task_1.ProfilePageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfilePageTest.authorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_home.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="third_home.task_1" />
+      <option name="MAIN_CLASS_NAME" value="third_home.task_1.ProfilePageTest" />
+      <option name="METHOD_NAME" value="authorization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfilePageTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third_home.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="third_home.task_1" />
+      <option name="MAIN_CLASS_NAME" value="third_home.task_1.ProfilePageTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProfilePageTest" />
+        <item itemvalue="JUnit.FirstTaskTest" />
+        <item itemvalue="JUnit.ProfilePageTest.authorization" />
+        <item itemvalue="JUnit.ProfilePageTest.test" />
+        <item itemvalue="JUnit.FirstTaskTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff7880fd-48a3-491a-9383-0ad52bc90c05" name="Changes" comment="" />
+      <created>1707785787615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707785787615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
